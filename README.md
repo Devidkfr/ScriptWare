@@ -1,4 +1,6 @@
-# ScriptWare
+# CURRENTLY DOWN!  
+
+ScriptWare
 ScriptWare is a Executor that used to exist now I remade it and it works just fine!
 
 We have been working on ScriptWare for aleast 3 months now!
@@ -16,7 +18,7 @@ These are the current things:
 10. Working Execution System! - Can change at anytime if roblox patches shit
 # 11. It has, 78% UNC!
 
-This is currently the only place you can get SCRIPTWARE so there no other places to download scriptware! (This is my verison though!)
+This is currently the 1/2 only place you can get SCRIPTWARE so there Is a way to download it from my discord. (This is my verison though!)
 
 Updates will be in the Update Logs!
 
