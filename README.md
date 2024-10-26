@@ -14,7 +14,7 @@ These are the current things:
 8.Clear Works for script editor
 9.Kill Roblox -WORKS!-
 10. Working Execution System! - Can change at anytime if roblox patches shit
-# 11. FINNALY 78% UNC!
+# 11. It has, 78% UNC!
 
 This is currently the only place you can get SCRIPTWARE so there no other places to download scriptware! (This is my verison though!)
 
