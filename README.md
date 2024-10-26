@@ -19,3 +19,7 @@ These are the current things:
 This is currently the only place you can get SCRIPTWARE so there no other places to download scriptware! (This is my verison though!)
 
 Updates will be in the Update Logs!
+
+
+We have also been through many differnt DLLS & APIS
+We are currently decided to stick with Forlon API.
